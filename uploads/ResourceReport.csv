@@ -1,0 +1,13 @@
+Name,Skill Domain Type,Skill Domain Name,Skill Name,Business Domain,Business Sub Domain,Certificates
+Israr xxxxx,"Core","Functional Testing
+","End To End Testing, Exploratory Testing, Regression Testing, Smoke/Sanity Testing, System Testing","Technology","Software Development","undefined"
+,"Core","Non-Functional Testing
+","Database Testing, Performance Testing, Security Testing, Usability Testing, User Interface Testing","undefined","undefined","undefined"
+,"Core","Testing tools
+","Link checker, QTP","undefined","undefined","undefined"
+,"Secondary","Functional Testing
+","Acceptance Testing","undefined","undefined","undefined"
+,"Secondary","Non-Functional Testing
+","Compatibility testing-browser, device/platform","undefined","undefined","undefined"
+,"Secondary","Testing tools
+","Jmeter, Selenium WebDriver","undefined","undefined","undefined"
